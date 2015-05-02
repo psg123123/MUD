@@ -1,6 +1,6 @@
 /////////////////////
 //Parte do servidor//
-/////////////////////
+/////////////////////                                      OLAOLAOLAOLAOLAOLAOLA
 
 #include <stdio.h>
 #include <time.h>   // dá jeito pro rand()
@@ -12,7 +12,7 @@
 #include <unistd.h>
 #include <math.h>
 #define MAX 100
-#define MAX_JOGADORES 10
+#define MAX_JOGADORES 100
 
 int NSEGUNDOS = 0;
 int njogadores = 0;
